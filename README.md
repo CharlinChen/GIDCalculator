@@ -3,35 +3,24 @@
 #### 介绍
 计算和分析《原神》圣遗物的最优配置。
 
-#### 软件架构
-软件架构说明
+#### 下载地址
+
+1.  快速下载地址：https://gitee.com/CharlinChen/GIDCalculator/raw/master/GIDCalculator.exe
+2.  完整zip下载地址：https://charlin55.lanzous.com/iDikYkq5bah 密码：uevd
 
 
-#### 安装教程
+#### 使用方法
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  若只下载exe文件，需要放在原神启动器所在目录下才能运行，否则会因缺少dll而报错；
+2.  若看不懂上述说明，可下载Zip压缩包，在zip安装包内提供了完整的dll，解压后双击GIDCalculator.exe即可。
 
-#### 使用说明
+#### 视频教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  正在制作中……
 
-#### 参与贡献
+#### 联系作者
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+Bilibili：charlin55
+QQ群：863507582
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
