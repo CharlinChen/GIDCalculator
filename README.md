@@ -6,7 +6,7 @@
 #### 下载地址
 
 1.  快速下载地址：https://gitee.com/CharlinChen/GIDCalculator/raw/master/GIDCalculator.exe
-2.  完整zip下载地址：https://charlin55.lanzous.com/iDikYkq5bah 密码：uevd
+2.  完整zip下载地址：https://charlin55.lanzous.com/it547mlgicj 密码:4896
 
 
 #### 使用方法
@@ -16,7 +16,7 @@
 
 #### 视频教程
 
-1.  正在制作中……
+1.  https://www.bilibili.com/video/BV1sZ4y1P7Hr/
 
 #### 联系作者
 
