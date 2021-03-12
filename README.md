@@ -18,7 +18,9 @@
 
 ![主界面](https://images.gitee.com/uploads/images/2021/0306/192933_9b3fc9ec_5657979.png "01.png")
 
-![优化选项](https://images.gitee.com/uploads/images/2021/0306/192953_9eb1362a_5657979.png "02.png")
+![优化参数](https://images.gitee.com/uploads/images/2021/0312/193607_47a6cce7_5657979.png "02.png")
+
+![优化结果](https://images.gitee.com/uploads/images/2021/0312/193645_ea094f6d_5657979.png "03.png")
 
 #### 视频教程
 
