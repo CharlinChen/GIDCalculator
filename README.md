@@ -7,12 +7,13 @@
 
 1.  快速下载地址：https://gitee.com/CharlinChen/GIDCalculator/raw/master/GIDCalculator.exe
 2.  完整zip下载地址：https://charlin55.lanzous.com/it547mlgicj 密码:4896
-
+3.  手机移植版下载地址：https://charlin55.lanzous.com/iRCNun0336f 密码:6px0
 
 #### 使用方法
 
 1.  若只下载exe文件，需要放在原神启动器所在目录下才能运行，否则会因缺少dll而报错；
 2.  若看不懂上述说明，可下载Zip压缩包，在zip安装包内提供了完整的dll，解压后双击GIDCalculator.exe即可。
+3.  手机版只适用于安卓系统。
 
 #### 界面截图
 
