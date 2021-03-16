@@ -7,7 +7,9 @@
 
 1.  快速下载地址：https://gitee.com/CharlinChen/GIDCalculator/raw/master/GIDCalculator.exe
 2.  完整zip下载地址：https://charlin55.lanzous.com/it547mlgicj 密码:4896
-3.  手机移植版下载地址：https://charlin55.lanzous.com/iRCNun0336f 密码:6px0
+3.  手机移植版下载地址：https://charlin55.lanzous.com/icryzn0fsgh 密码:3tk5
+
+注：由于移植到Android上的QT文件管理器过于反人类，对于android10以下的手机，一不小心就可能把其它文件夹移动到另一个文件夹里面，造成巨大的混乱。故取消了APP的外部读写权限，之后配置文件只能保存在/dada/data/...文件夹里面。
 
 #### 使用方法
 
