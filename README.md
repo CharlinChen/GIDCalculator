@@ -3,6 +3,8 @@
 #### 介绍
 计算和分析《原神》圣遗物的最优配置。
 
+v1.0先行版在群里，可加群获取，正式版预计3月20日更新至gitee。
+
 #### 下载地址
 
 1.  快速下载地址：https://gitee.com/CharlinChen/GIDCalculator/raw/master/GIDCalculator.exe
