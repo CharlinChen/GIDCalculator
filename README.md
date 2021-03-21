@@ -3,12 +3,12 @@
 #### 介绍
 计算和分析《原神》圣遗物的最优配置。
 
-v1.0先行版在群里，可加群获取，正式版预计3月21日更新至gitee。
+v1.0.0版本已更新
 
 #### 下载地址
 
 1.  快速下载地址：https://gitee.com/CharlinChen/GIDCalculator/raw/master/GIDCalculator.exe
-2.  完整zip下载地址：https://charlin55.lanzous.com/it547mlgicj 密码:4896
+2.  完整zip下载地址：https://charlin55.lanzous.com/it547mlgicj 密码:4896 (注意，这是0.5.0版本，需要下载上面的1.0.0版，然后替换掉压缩包里的GIDCalculator.exe)
 3.  手机移植版下载地址：https://charlin55.lanzous.com/icryzn0fsgh 密码:3tk5
 
 注：由于移植到Android上的QT文件管理器过于反人类，对于android10以下的手机，一不小心就可能把其它文件夹移动到另一个文件夹里面，造成巨大的混乱。故取消了APP的外部读写权限，之后配置文件只能保存在/dada/data/...文件夹里面。
@@ -16,7 +16,7 @@ v1.0先行版在群里，可加群获取，正式版预计3月21日更新至gite
 #### 使用方法
 
 1.  若只下载exe文件，需要放在原神启动器所在目录下才能运行，否则会因缺少dll而报错；
-2.  若看不懂上述说明，可下载Zip压缩包，在zip安装包内提供了完整的dll，解压后双击GIDCalculator.exe即可。
+2.  若看不懂上述说明，可下载Zip压缩包，在zip安装包内提供了完整的dll，解压后，将新版GIDCalculator.exe移动到文件夹里，替换掉原来的即可。
 3.  手机版只适用于安卓系统。
 
 #### 界面截图
@@ -29,7 +29,8 @@ v1.0先行版在群里，可加群获取，正式版预计3月21日更新至gite
 
 #### 视频教程
 
-1.  https://www.bilibili.com/video/BV1sZ4y1P7Hr/
+1.  上期： https://www.bilibili.com/video/BV1sZ4y1P7Hr/
+2.  下期： https://www.bilibili.com/video/BV1T54y187o2/
 
 #### 联系作者
 
